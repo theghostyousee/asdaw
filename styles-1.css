@@ -2089,7 +2089,7 @@
   
   .w-embed-youtubevideo {
     width: 100%;
-    background-image: url("static/youtube-placeholder.2b05e7d68d.svg");
+    background-image: url("static/youtube-placeholder.2b05e7d68d-1.svg");
     background-position: 50%;
     background-size: cover;
     padding-bottom: 0;
@@ -2731,7 +2731,7 @@
   
   .download-app_wrapper {
     width: 100%;
-    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca26_download-map-bg.svg");
+    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca26_download-map-bg-1.svg");
     background-position: 50%;
     background-size: cover;
     border: 1px solid #b8b8b8;
@@ -2901,7 +2901,7 @@
     width: 100%;
     grid-column-gap: 6.4rem;
     grid-row-gap: 3.2rem;
-    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca26_download-map-bg.svg");
+    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca26_download-map-bg-1.svg");
     background-position: 0 100%;
     background-size: cover;
     border: 1px solid #b8b8b8;
@@ -3078,7 +3078,7 @@
   
   .dp-download_section {
     width: 100vw;
-    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca2a_download-page-bg.svg");
+    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca2a_download-page-bg-1.svg");
     background-position: 0 0;
     background-size: cover;
     justify-content: center;
@@ -3272,7 +3272,7 @@
   }
   
   .roadmap_card {
-    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca2a_download-page-bg.svg");
+    background-image: url("64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca2a_download-page-bg-1.svg");
     background-position: 0 0;
     background-size: cover;
     border: 1px solid #b8b8b8;
@@ -4202,28 +4202,28 @@
   
   @font-face {
     font-family: 'Visby Cf';
-    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca15_Visby CF Demi Bold-normal-400-100.ttf') format('truetype');
+    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca15_Visby CF Demi Bold-normal-400-100-1.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Dmsans';
-    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca17_DMSans-Medium.ttf') format('truetype');
+    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca17_DMSans-Medium-1.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Dmsans';
-    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca18_DMSans-Regular.ttf') format('truetype');
+    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca18_DMSans-Regular-1.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Visby Cf';
-    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca16_Visby CF Medium-normal-400-100.otf') format('opentype');
+    src: url('64fb18e1a80ba54bbd3dca0c/64fb18e1a80ba54bbd3dca16_Visby CF Medium-normal-400-100-1.otf') format('opentype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
